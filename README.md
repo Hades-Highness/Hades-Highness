@@ -1,27 +1,26 @@
-# 🪐 Hello, I'm Hades-Highness! 👋
+# 🌌 Hello, I'm Hades-Highness! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hades-Highness&color=purple&style=flat-square" alt="Hades-Highness" />
+  <img src="https://komarev.com/ghpvc/?username=Hades-Highness&color=6f42c1&style=flat-square" alt="Hades-Highness" />
 </p>
 
-### 💻 Passionate Developer & Tech Enthusiast
+### 🧠 AI Engineering Student & Core Developer
 
-Welcome to my GitHub profile! I'm a developer focused on building modern applications, custom automation bots, and exploring the world of AI and software architecture.
+Passionate about Artificial Intelligence, core system development, and algorithmic optimization. I focus on building intelligent systems, fine-tuning/hosting local LLMs, and bridging the gap between robust backend architectures and advanced AI models.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ AI & Engineering Stack
 
-Here are some of the languages, frameworks, and tools I enjoy working with:
+#### 🧠 Artificial Intelligence & Data Science
+- **Core Knowledge:** Optimization Theory, Machine Learning, Deep Learning Architectures
+- **AI Tools & Frameworks:** Google AI Studio (Gemini API), Ollama, Local LLMs deployment
+- **Data & Processing:** Database Management (MongoDB, Mongoose), Data Structures
 
-#### 🟢 Backend & Databases
-✨ **Node.js** & **TypeScript** | 🗄️ **MongoDB** & Mongoose | 🚀 **Express.js**
-
-#### 🔵 Frontend Development
-🎨 **Next.js** & **React** | ⚡ **Tailwind CSS** | 🛸 **Framer Motion**
-
-#### 🤖 AI & Development Tools
-🧠 **Google AI Studio / Gemini API** | 🦙 **Ollama & Local LLMs** | 🐙 **Git & GitHub Actions**
+#### ⚙️ Software Engineering & Architecture
+- **Languages:** TypeScript, JavaScript, Python (for AI/Data)
+- **Backend Ecosystem:** Node.js, Express.js, Custom Bot Architectures
+- **Frontend & Interfaces:** Next.js, Tailwind CSS, Framer Motion (for interactive AI dashboards)
 
 ---
 
@@ -34,6 +33,7 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
 
 ---
 
-### 🌌 Connect with Me
-- 💬 Ask me about: **Bot Development, Next.js, and Databases**
-- ⚡ Fun fact: "Always learning, refactoring, and optimizing code."
+### 🚀 Focus & Goals
+- 🎯 Current Focus: **Optimization Theory, Intelligent Automation, and LLM Applications**
+- 💬 Ask me about: **Bot Development, AI API Integration, and System Architecture**
+- ⚡ Philosophy: *"Analyzing complexities, optimizing algorithms, and engineering intelligence."*
